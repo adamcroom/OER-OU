@@ -1,3 +1,5 @@
+# This is better in Markdown
+
 These are the modules for Introduction to Open Education Resources: A 20-minute Course.
 
 The class can be seen online at https://canvas.instructure.com/courses/815700
